@@ -28,8 +28,8 @@ The idea of the project is to help users plan and track their travels:
 
 ### 1️⃣ Home Page – Choose a New Destination
 - Hero section with a search bar
-- Popular destinations carousel
 - Short explanation: how the system works
+- Popular destinations carousel
 - Call-to-action to view personal map
 - Feedback for non-implemented links (tooltip on hover)
 
@@ -116,7 +116,8 @@ The idea of the project is to help users plan and track their travels:
 
 ## 👩‍💻 Author
 
-**Olya Vygodina**
-**Adi Oknin** 
-**Amir Doh** 
+- **Olya Vygodina**
+- **Adi Oknin**
+- **Amir Doh**
+
 Web Course Project, 2025
