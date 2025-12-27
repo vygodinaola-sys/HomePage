@@ -495,7 +495,7 @@ main {
     }
     
     .cta p {
-        font-size: 14px;
+        font-size: 12px;
         margin: 8px 0 25px;
         line-height: 1.4;
     }
@@ -511,4 +511,5 @@ main {
         font-size: 12px;
         padding: 20px 15px;
     }
+
 }
