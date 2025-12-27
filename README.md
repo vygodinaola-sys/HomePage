@@ -5,10 +5,8 @@ The project allows users to explore travel destinations, save favorites, and vis
 
 ---
 
-## 🔗 Live Website
-
-👉 **Visit the website:**  
-[https://YOUR_LINK_HERE](https://vygodinaola-sys.github.io/HomePage/)
+## 🔗 Live Website 
+👉 [Visit the website](https://vygodinaola-sys.github.io/HomePage/)
 
 ---
 
